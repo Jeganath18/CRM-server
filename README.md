@@ -1,6 +1,16 @@
 # CRM-Server Documentation
 
-This document provides instructions on how to set up and run the CRM-Server. This server is built to handle customer relationship management tasks, including user authentication, customer data management, and image uploads.
+This document provides instructions on how to set up and run the CRM-Server. This server is built to handle customer relationship management tasks, including user authentication, customer data management, and image uploads.This application is designed to interact with the [CRM-Web](https://github.com/Jeganath18/CRM-web).
+
+***
+
+## ℹ️ A Note on Contribution
+This application was professionally developed for a client, WealthEmpires. 
+The commits in this repository were made using a company-provided GitHub ID. I was the one working behind that GitHub ID.
+This personal repository serves as a showcase and a trace of my individual work and contributions to the project.
+
+***
+
 
 ***
 
