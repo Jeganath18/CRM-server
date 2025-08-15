@@ -11,9 +11,6 @@ This personal repository serves as a showcase and a trace of my individual work 
 
 ***
 
-
-***
-
 ## ✨ Features
 
 * **User Authentication**: Secure user registration and login using Passport.js with JSON Web Tokens (JWT).
